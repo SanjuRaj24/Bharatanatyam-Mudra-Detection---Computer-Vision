@@ -49,12 +49,6 @@ To use this project:
 
 Please note that this project may require additional Python libraries and dependencies. Make sure to install them using `pip` if not already installed.
 
-## Project in Action
-
-![Hand Detection in Action](https://example.com/path-to-your-gif.gif)
-
-*Demonstration of the hand detection system in real-time.*
-
 ## Credits
 
 This project was developed by [Sreshta](mailto:sreshtapothula2@gmail.com). If you find this project useful or have any suggestions for improvement, feel free to contribute or reach out.
